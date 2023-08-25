@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { RootState, addRow, addColumn, updateCellValue } from './../../redux/actions';
+import { RootState, updateCellValue } from './../../redux/actions';
 
 const Table: React.FC = () => {
     const rows = useSelector((state: RootState) => state.excel.rows);
