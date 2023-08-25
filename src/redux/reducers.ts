@@ -1,4 +1,3 @@
-// redux/reducers.ts
 import { createReducer } from '@reduxjs/toolkit';
 import { addRow, addColumn, updateCellValue } from './actions';
 
