@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Excel Sheet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is just a simple excel like application with the ability to add rows and columns using React, Redux, and TypeScript
 
 ## Available Scripts
 
